@@ -37,6 +37,11 @@ Card Web Collection Service - Game Card collection Website (https://github.com/C
 A web app to track and visualize 200+ Game Card collection
 Tech Stack: JavaScript, MySQL, Node.js
 Learnings: Frontend development, data integration, API integration
+
+Hardware Error Correction Estimation - Quantum Software RA (https://github.com/CanDoJaewon/Quantum-Software-RA/blob/main/README.md)
+Short presentation project with estimating quantum hardware error point with Taylor function, Sign, and Cosign function.
+Tech Stack: Python, Numpy, Pandas
+Learnings: Data Visualization, Data prediction, presentation skills
  
 
 ## 📫 How to Reach Me:
