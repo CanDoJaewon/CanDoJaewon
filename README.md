@@ -1,32 +1,32 @@
 ## 👋 Hi, I'm Jaewon Kim!
 
-### 🎓 Senior at San Jose State University, studying Computer Science
-### 💼 AI/ML Fellow at Arity through Break Through Tech AI Program
-### 🔭 Aspiring Machine Learning Engineer with Sustainability, passsionate, and Enthusiast
+### 🎓 BS Computer Science at San Jose State University (Class of 2026)
+### 🔭 Interested in AI/ML System Software Engineering with Low Level Architectures
+### 💼 LPU Compiler Engineer Intern at Hyperaccel
 
-I love tackling real-world problems through data analysis and predictive modeling. 
-I’m passionate on continuously learning and building my skills, and believe taking initiative is a big key to growth. 
-(Ask me about growing my technical skills and leadership as a Break Through Tech Fellow experiences!) 
+Previous Experience
+AI/ML Fellow at Arity through Break Through Tech AI Program (6 months Internship)
+FPGA Testing Intern at SJSU (3 months)
 
-Currently, I'm focusing on building machine learning models and diving deeper into data science. 
+My Background
+I'm a sustainable learner with passionate mind. I graduated San Jose State University in the spring 2026 studying Computer Science.
+The last year of studying at SJSU, I focused on understanding system software architecture because I really want to know how to performance better in hardware by using software knowledge. Now, I'm currently working at Hyperaccel as a compiler engineer with researching frontend and middle compiler using PyTorch(torch.compile).
+One of my current job is making a "scheduler"(sequence decision and kernel fusion) between middle and backend compiler.
 I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals.
+In addition, I'm looking for next step where I can learn more with diverse field!
 
  
-## 🎯 Featured Project: Driving Behavior Analysis For Arity (Mobility Data Company)
-What We are doing: My team will use vehicle telematics and sensor data to classify different types of driving maneuvers, such as turns, lane changes, and U-turns. Understanding these patterns can improve driver safety programs, power usage-based insurance pricing, and enhance autonomous vehicle systems. This could be approached as a classification problem, though other modeling strategies may also be relevant.
-Tools: Python, spaCy, scikit-learn, and etc (coming soon!)
- 
-
 ## 🛠 Tech Stack:
-Languages: Python, Java, C++
-Data Science: Pandas, NumPy, scikit-learn, TensorFlow
+Languages: Python, Java, C++, Legato(eDSL)
+Data Science: Pandas, NumPy, scikit-learn, TensorFlow, PyTorch
 Web Dev: HTML, CSS, JavaScript (basic), Node.js
 Tools: Jupyter Notebooks, Google Colab, Git, GitHub
 Databases: MySQL, NoSQL, Cassandra, Neo4J
+Compiler: torch.compile, MLIR, ISA, microarhitectures
  
 
 ## 🚀 Projects:
-A few other noteworthy projects I’ve worked on:
+A few other noteworthy projects I’ve worked on previously:
 
 TrashTalker - AI-Powered Recycling Education Platform (https://github.com/CanDoJaewon/TrashTalker/blob/main/documentation/README.md)
 Developed a classification machine learning models using Flask to suggest what type of things to be recycled based on model's prediction.
@@ -45,15 +45,13 @@ Learnings: Data Visualization, Data prediction, presentation skills
  
 
 ## 📫 How to Reach Me:
-Email: jaewon.kim@sjsu.edu
+Email: jaewon8668@gmail.com
 LinkedIn: linkedin.com/in/samuel-jaewon-kim/
  
-
-📊 GitHub Stats: Coming soon!
  
 
 ✨ Fun Fact:
-Playing Baseball is my favorite sports, and you can find me every Saturday in Arvington High School at Fremont.
+Playing Baseball is my favorite sports, I used to play baseball professionally for 10 years in South Korea.
 
 
 
